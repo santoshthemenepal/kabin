@@ -1,6 +1,6 @@
 <?php
 
-namespace Module\Admin;
+namespace Kabinsir\Necrud;
 
 use App\View\Components\Header;
 use Illuminate\Support\Facades\Blade;
