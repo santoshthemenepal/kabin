@@ -1,0 +1,18 @@
+{
+    "name": "kabinsir/necrud",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kabinsir\\Necrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santosh Dheke",
+            "email": "santoshdheke46@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
